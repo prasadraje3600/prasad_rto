@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "349159251834",
+    "project_id": "maharto-cf57d",
+    "storage_bucket": "maharto-cf57d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349159251834:android:ca8428b1c638e3a91f00c3",
+        "android_client_info": {
+          "package_name": "com.example.maha_rto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349159251834-7db507j4f6rjiktvv7cacialpl13ba4n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTiHuA6p2bgNbQImj8V_KiH2Krmh_3gRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349159251834-7db507j4f6rjiktvv7cacialpl13ba4n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
